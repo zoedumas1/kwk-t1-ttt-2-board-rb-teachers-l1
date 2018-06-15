@@ -1,4 +1,3 @@
 # Define the variable board below.
 
-def board
-end
+variable = board
