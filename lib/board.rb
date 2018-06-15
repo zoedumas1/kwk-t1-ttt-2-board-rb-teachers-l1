@@ -1,3 +1,3 @@
 # Define the variable board below.
 
-variable = board
+def = board 
