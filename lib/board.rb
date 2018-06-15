@@ -1,4 +1,4 @@
 # Define the variable board below.
 
-class board
+def board
 end
